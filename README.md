@@ -1,5 +1,5 @@
 - 👋 Olá, sou @SrNickz
-- 🌱 Atualmente estou aprendendo GameMaker Language
+- 🌱 Atualmente estou aprendendo GML (GameMaker Language)
 
 
 
