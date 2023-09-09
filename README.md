@@ -1,3 +1,5 @@
+# 💫 About Me:
+👋 Olá, sou Nicolas, um jovem iniciante na programação<br>🌱 Atualmente estou aprendendo GML (GameMakerLanguage)
 
 # 💻 Tech Stack:
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
